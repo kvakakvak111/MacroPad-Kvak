@@ -1,10 +1,10 @@
 **Inspiration:**
 
-    My Friend showed me his MacroPad and i was amazed. I wanted to make my own and beeter one :) 
+    My Friend showed me his MacroPad and i was amazed. I wanted to make my own and better one :) 
 
 **Challenges**
 
-    Making the PCB in KiCAD was extremly dificult for me. I never used to work with these. But it was pretty fun when I got into it. Modeling the case was pretty okey, i followed the guide on blueprint.hackclub.com and made a good case. Maybe I will edit the case later.
+    Making the PCB in KiCAD was extremly dificult for me. I never used to work with these. But it was pretty fun when I got into it. Modeling the case was pretty okey, I followed the guide on blueprint.hackclub.com and made a good case. Maybe I will edit the case later.
 
 **BOM:**
 
