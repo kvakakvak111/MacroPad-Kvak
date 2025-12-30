@@ -1,0 +1,25 @@
+Folder PATH listing
+Volume serial number is C206-7139
+C:.
+|   tree
+|   
++---CAD
+|       top+Bottom case for MacroPad.step
+|       
++---Firmware
+|       code.py
+|       
++---IMG
+|       1.png
+|       2.png
+|       3.png
+|       4.png
+|       5.png
+|       
+\---PCB
+        BOM.csv
+        GerberFiles.zip
+        MacroPad.kicad_pcb
+        MacroPad.kicad_pro
+        MacroPad.kicad_sch
+        

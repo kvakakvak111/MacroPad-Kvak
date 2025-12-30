@@ -1,0 +1,4 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1,D2,D3,D4","4","SK6812MINI","","","","footprints:SK6812MINI-E_fixed","https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
+"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9","9","SW_Push","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB","~"
+"U1","1","XIAO-RP2040-DIP","","","","Seeed Studio XIAO Series Library:XIAO-RP2040-DIP",""
